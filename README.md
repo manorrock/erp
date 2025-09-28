@@ -26,3 +26,7 @@ A minimal, installable desktop ERP application for manual order and payment entr
 - **No cloud or backend required:** All data stays on your desktop for maximum privacy and control.
 - **Manual data entry:** Simple, focused workflows—no complex integrations or automation to maintain.
 - **Minimalist by design:** No advanced accounting or reporting means less clutter and distraction—just what you need to track orders and payments.
+
+## Disclaimer of Liability
+
+This software is provided "as is", without warranty of any kind, express or implied, including but not limited to the warranties of merchantability, fitness for a particular purpose, and noninfringement. In no event shall the authors or copyright holders be liable for any claim, damages, or other liability, whether in an action of contract, tort, or otherwise, arising from, out of, or in connection with the software or the use or other dealings in the software.
