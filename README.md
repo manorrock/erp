@@ -1,5 +1,7 @@
 # Manorrock ERP Free Edition
 
+_This project is no longer being maintained._
+
 A minimal, installable desktop ERP application for manual order and payment entry, designed for single users and small businesses who need simple order tracking.
 
 ## Features
